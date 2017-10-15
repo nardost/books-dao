@@ -153,7 +153,7 @@
 			</plugin>			
 			
 		</plugins>
-		<finalName>org.books</finalName>
+		<finalName>books</finalName>
 	</build>
 
 </project>

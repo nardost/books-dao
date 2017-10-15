@@ -21,14 +21,14 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Home</a>
+      <a class="navbar-brand" href="/org.books/">Home</a>
     </div>
     <ul class="nav navbar-nav">
       
-      <li><a href="/books/create/book">Create Book</a></li>
-      <li><a href="/books/create/person">Create Person</a></li>
-      <li><a href="/books/list/books">List Books</a></li>
-      <li><a href="/books/list/persons">List Persons</a></li>
+      <li><a href="/org.books/create/book">Create Book</a></li>
+      <li><a href="/org.books/create/person">Create Person</a></li>
+      <li><a href="/org.books/list/books">List Books</a></li>
+      <li><a href="/org.books/list/persons">List Persons</a></li>
     </ul>
   </div>
 </nav>
@@ -69,7 +69,7 @@
     <!--Copyright-->
     <div class="footer-copyright">
         <div class="container-fluid">
-            Jenkins CI Server: <a href="https://192.168.2.53:8080">https://192.168.2.53:8080</a>
+            Jenkins CI Server: <a href="http://192.168.2.53:8080">https://192.168.2.53:8080</a>
 
         </div>
     </div>
