@@ -1,0 +1,23 @@
+.lighten-3 {
+	background-color: #ccc;
+}
+.font-bold {
+	text-transform: uppercase;
+	font-weight: bold;
+	
+}
+.jumbotron {
+	margin-bottom: 0;
+}
+nav.navbar-default {
+	background-color: #a7a7a7;
+}
+.container-fluid {
+	text-align: center;
+	background-color: #333;
+	color: white;
+}
+.container-fluid a {
+	color: yellow;
+	text-decoration: none;
+}

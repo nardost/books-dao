@@ -1,0 +1,17 @@
+body, table, div {
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 12;
+}
+table tr th {
+	font-size: 1.5em;
+}
+th {
+	background-color: #eee;
+}
+tr.r-0 {
+	background-color: #ccc;
+}
+
+tr.r-1 {
+	background-color: #eee;
+}
