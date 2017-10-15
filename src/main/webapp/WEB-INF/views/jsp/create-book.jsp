@@ -34,7 +34,7 @@
 </nav>
 <div class="container">
 <h1>Record Book</h1>
-<form:form method="POST" action="/books/create/book" modelAttribute="book">
+<form:form method="POST" action="/org.books/create/book" modelAttribute="book">
 <table class="table">
 	<tr><td><form:label path="title">Title</form:label></td><td><form:input path="title" /></td></tr>
 	<tr><td><form:label path="author">Author</form:label></td><td><form:input path="author" /></td></tr>

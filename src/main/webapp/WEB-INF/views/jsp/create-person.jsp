@@ -34,7 +34,7 @@
 </nav>
 <div class="container">
 <h1>Create Person</h1>
-<form:form method="POST" action="/books/create/person" modelAttribute="person">
+<form:form method="POST" action="/org.books/create/person" modelAttribute="person">
 <table class="table">
 	<tr><td><form:label path="name">Name:</form:label></td><td><form:input path="name" /></td></tr>
 	<tr><td><form:label path="email">Email:</form:label></td><td><form:input path="email" /></td></tr>
